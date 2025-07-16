@@ -34,7 +34,7 @@ Here are the languages and technologies that power my projects:
 ### Other Tools & Concepts
 * Git
 * GitHub
-* [Any specific IDEs, e.g., VS Code]
+
  
 
 ---
